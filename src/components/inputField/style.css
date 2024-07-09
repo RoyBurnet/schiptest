@@ -1,0 +1,8 @@
+.input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid var(--grey-scattered);
+    border-radius: 5px;
+    user-select: none;
+}

@@ -1,0 +1,15 @@
+.list {
+    margin-top: 20px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.list-item {
+    padding: 10px;
+    border-bottom: 1px solid var(--grey-storm);
+}
+
+.link {
+    text-decoration: none;
+    color: var(--afternoon-blue);
+}
