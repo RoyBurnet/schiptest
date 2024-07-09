@@ -5,7 +5,7 @@ import InputField from "../inputField/InputField";
 import Title from "../title/Title";
 import Button from "../button/Button";
 import List from "../list/List";
-import Container from "../container/container";
+import Container from "../container/Container";
 
 import "./style.css";
 
